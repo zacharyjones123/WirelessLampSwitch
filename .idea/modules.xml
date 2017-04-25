@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WirelessLampSwitch.iml" filepath="$PROJECT_DIR$/WirelessLampSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WirelessLampSwitch_Zach.iml" filepath="$PROJECT_DIR$/WirelessLampSwitch_Zach.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
